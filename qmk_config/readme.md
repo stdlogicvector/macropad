@@ -1,7 +1,7 @@
 MacroPad
 ===
 
-![MacroPad](https://i.imgur.com/WVTe0Ku.png)
+![MacroPad](https://i.imgur.com/Po4ug0O.jpg)
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
