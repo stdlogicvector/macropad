@@ -6,7 +6,7 @@ More Info on this ![Reddit Thread](https://www.reddit.com/r/MechanicalKeyboards/
 
 ## Circuit Board
 
-![Populated Circit Board - Bottom Side](https://imgur.com/0kBFomG)
+![Populated Circit Board - Bottom Side](https://i.imgur.com/Po4ug0O.jpg)
 
 The circuit board is designed in Eagle.
 For easy manufacturing, the gerber-files and SMT production files are included.
@@ -35,7 +35,7 @@ make macropad/v1:default
 	
 ## Case
 
-![MacroPad with 3D printed case](https://imgur.com/Po4ug0O)
+![MacroPad with 3D printed case](https://i.imgur.com/0kBFomG.jpg)
 
 The case can be 3D printed in two parts.
 There are holes for heat-set M3 threaded inserts to hold the PCB and M2 threaded inserts to hold the plate.
